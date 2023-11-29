@@ -6,7 +6,7 @@
 ## <div align="center">Hi, I'm Tejas, an Android Developer and Competetive Programmer.</div>
 
 🔭 I’m currently working with Kotlin and NodeJs<br><br>❓ Ask me about anything related to Android Dev and related technologies<br><br>⚡ Fun fact: Monday is the most common sick day.
-<br>
+<br><br>💻 You can email me at tejasjha3210@gmail.com! I'll respond as fast as I can.
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/spacewalker.___/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejashwadeep-jha-77885a230/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tejas_jha67) 
