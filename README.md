@@ -5,7 +5,7 @@
 
 ## <div align="center">Hi, I'm Tejas, an Android Developer and Competetive Programmer.</div>
 
-🔭 I’m currently working with Kotlin and NodeJs<br><br>❓ Ask me about anything related to Android Dev and related technologies<br><br>⚡ Fun fact: Monday is the most common sick day.
+🔭 I’m currently exploring Golang. <br><br>❓ Ask me about anything related to Android Dev, Java, Golang.<br><br>⚡ Fun fact: Monday is the most common sick day.
 <br><br>💻 You can email me at tejasjha3210@gmail.com! I'll respond as fast as I can.
 
 # 🌐 Socials:
@@ -26,36 +26,17 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a> 
 </div>
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tejas-67&theme=highcontrast&hide_border=false&include_all_commits=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tejas-67&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-67&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br>
-
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tejas-67&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+<!--<img align="right" width="300" src="https://user-images.githubusercontent.com/94922914/233508815-a208793f-7564-4ee8-9a01-1c487e22ccef.gif">-->
+<img  src="https://streak-stats.demolab.com?user=Tejas-67&theme=aura&hide_border=true&card_width=550"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=Tejas-67&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
 
 <br>
 
-# ✍️ Some Wisdom
-<div align="center">
-  <div style="background-color: #333; padding: 20px; border-radius: 8px; width: 70%; margin: 0 auto;">
-    <blockquote style="color: #bbb; font-size: 24px; text-align: center;">
-      "Success is a lousy teacher. It seduces smart people into thinking they can't lose."
-    </blockquote>
-    <p style="color: #bbb; text-align: right;">- Bill Gates</p>
-  </div>
-</div>
-
-<br>
-
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tejas-67&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=tejas-67&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
